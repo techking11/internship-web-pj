@@ -1,0 +1,16 @@
+{
+    "global" : {
+        "title" : "2022 - 2023 AGTI Exam Table (First year, second year, third year)",
+        "paragraph" : "A melting pot of cultures and cuisines, Malaysia has plenty of travel secrets to discover.",
+        "date" : "7 March 2023",
+        "date_icon" : "<i class='fa-solid fa-calendar-days'></i>"
+    },
+    "gallery" : {
+        "item1" : "https://plus.unsplash.com/premium_photo-1663956009333-74ec4e107e5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dW5pdmVyc2l0eSUyMHN0dWRlbnQlMjBtZWV0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "item2" : "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5pdmVyc2l0eSUyMHN0dWRlbnQlMjBtZWV0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "item3" : "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dW5pdmVyc2l0eSUyMHN0dWRlbnQlMjBtZWV0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "item4" : "https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dW5pdmVyc2l0eSUyMHN0dWRlbnQlMjBtZWV0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "item5" : "https://images.unsplash.com/photo-1515168985652-8454bcc8fcaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHVuaXZlcnNpdHklMjBzdHVkZW50JTIwbWVldGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "item6" : "https://plus.unsplash.com/premium_photo-1670002511480-c68fa9e647f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHVuaXZlcnNpdHklMjBzdHVkZW50JTIwbWVldGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+}

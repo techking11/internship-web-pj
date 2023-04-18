@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,100&display=swap');
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+body {
+    font: 400 16px Poppins, sans-serif;
+    background: #eee;
+    color: #222;
+}
+.container {
+    width: 100%;
+    height: auto;
+    padding: 100px;
+    margin: 0 auto;
+}
+.user-box {
+    width: 500px;
+    height: auto;
+    padding: 30px 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.user-box h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+    color: rgb(74, 74, 228);
+}
+.user-box .input-group, .user-box .btn-group {
+    width: 100%;
+}
+.user-box input {
+    height: 35px;
+    font-size: 16px;
+}
+.user-box input, .user-box textarea,.user-box input:focus, .user-box textarea:focus {
+    width: 100%;
+    border: 1px solid rgb(74, 74, 228);
+    padding-left: 10px;
+    margin: 5px 0px;
+    font-size: 16px;
+    outline: none;
+    color: #222;
+}
+.btn-group input {
+    background-color: rgb(74, 74, 228);
+    border: none;
+    color: #eee;
+}
+.btn-group input:hover {
+    color: #eee;
+    background-color: #222;
+}
+.comment-box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.comment-box .box {
+    width: 500px;
+    height: auto;
+    padding: 30px 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px;
+}
+.comment-box h1 {
+    text-align: center;
+    color: rgb(74, 74, 228);
+    font-size: 25px;
+    margin: 10px 0px;
+}
+.comment-box p {
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 1.5;
+}

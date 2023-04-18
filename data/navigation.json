@@ -1,0 +1,20 @@
+[
+    "Home",
+    {
+        "about_us" : "About Us",
+        "sub" : ["About College", "Our Principals", "Student Communities"]
+    },
+    {
+        "academic" : "Academic",
+        "sub" : ["Admission", "Departments", "Career & Roadmap"]
+    },
+    {
+        "event_activity" : "Events & Activities",
+        "sub" : ["News & Announcement", "Event & Activities", "Certificate Offer"]
+    },
+    {
+        "research" : "Research",
+        "sub" : ["Projects", "Online Library", "Collaborations"]
+    },
+    "Contact Us"
+]
